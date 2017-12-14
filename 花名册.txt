@@ -345,6 +345,7 @@ tony            学生
 <<<<<<< HEAD
 RossLing        hello,everyone!
 meditates       9 is my favorite number
+<<<<<<< HEAD
 =======
 >>>>>>> 2fe04291ef6ae5c59a88299eafb91dfcc8cf83c9
 >>>>>>> 65ea3edcb5cf9c3f4a9961c34c82b9e1bb55df42
@@ -378,3 +379,6 @@ GZIvan          搬砖的
 =======
 RossLing        hello,everyone!
 >>>>>>> parent of b5721eb... Update 花名册.txt
+=======
+
+>>>>>>> 4abea653f97cb7b4cfb78a13a75730ac40e3f60e
