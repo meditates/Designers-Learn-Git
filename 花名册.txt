@@ -342,6 +342,7 @@ GZIvan          搬砖的
 rimiHS          程序员
 rimiXK		程序员
 tony            学生
+<<<<<<< HEAD
 RossLing        hello,everyone!
 meditates       9 is my favorite number
 =======
@@ -374,3 +375,6 @@ ihtml5      前端工程师
 GZIvan          搬砖的
 >>>>>>> 13dc4217d01b53f090cd7bd0a4916b273911ff98
 >>>>>>> parent of d66d12b... 359
+=======
+RossLing        hello,everyone!
+>>>>>>> parent of b5721eb... Update 花名册.txt
