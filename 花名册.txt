@@ -336,6 +336,7 @@ ming
 sean            喜欢深海的鱼
 anna            kick off
 Roy             CAN
+<<<<<<< HEAD
 subvertion      什么都懂点什么都不精通的在校码农
 GZIvan          搬砖的
 rimiHS          程序员
@@ -343,3 +344,33 @@ rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
 meditates       9 is my favorite number
+=======
+>>>>>>> 2fe04291ef6ae5c59a88299eafb91dfcc8cf83c9
+>>>>>>> 65ea3edcb5cf9c3f4a9961c34c82b9e1bb55df42
+<<<<<<< HEAD
+>>>>>>> bed950f413174f7d2dcb26ad03b0ff7c5a80de2e
+=======
+subvertion        什么都懂点什么都不精通的在校码农
+>>>>>>> 8c2b2f8c24d246708fbd28cf37d7dd029e9a1dc9
+=======
+KevinLi     Tower设计师
+Zxming      小砖厂产品设计师
+sdaf        设计狮
+Funpee	    设计师
+Rayflavor   设计师
+KevinLi     Tower设计师
+Zxming      小砖厂产品设计师
+sdaf        设计狮
+Funpee	    设计师
+Rayflavor   设计师
+KevinLi     Tower设计师
+Zxming      小砖厂产品设计师
+sdaf        设计狮
+Funpee	    设计师
+Rayflavor   设计师
+ihtml5      前端工程师
+>>>>>>> 5aec9c56937e568f0e6675b2a6852c134f0443ee
+=======
+GZIvan          搬砖的
+>>>>>>> 13dc4217d01b53f090cd7bd0a4916b273911ff98
+>>>>>>> parent of d66d12b... 359
